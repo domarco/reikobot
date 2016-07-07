@@ -1,0 +1,172 @@
+ style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="http://myanimelist.net/anime/1375/Watashi_no_Ashinaga_Ojisan/pics">
+      <img src="http://cdn.myanimelist.net/images/spacer.gif" data-src="http://cdn.myanimelist.net/images/anime/12/17851.jpg" alt="Watashi no Ashinaga Ojisan" class="ac lazyload no-effect" itemprop="image"></a>
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="http://myanimelist.net/login.php?from=%2Fanime%2F1375%2FWatashi_no_Ashinaga_Ojisan&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="1375">
+  <input type="hidden" id="myinfo_curstatus" value="">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option selected="selected" value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value="40"> / <span id="curEps">40</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="http://myanimelist.net/panel.php?go=add&amp;selected_series_id=1375">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0">
+  <a href="http://myanimelist.net/login.php?from=%2Fanime%2F1375%2FWatashi_no_Ashinaga_Ojisan&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fmyanimelist.net%2Fanime%2F1375%2FWatashi_no_Ashinaga_Ojisan"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=http%3A%2F%2Fmyanimelist.net%2Fanime%2F1375%2FWatashi_no_Ashinaga_Ojisan&amp;text=Watashi%20no%20Ashinaga%20Ojisan&amp;hashtags=anime"></a><a data-ga-network="google+" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-google" target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fmyanimelist.net%2Fanime%2F1375%2FWatashi_no_Ashinaga_Ojisan"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=http%3A%2F%2Fmyanimelist.net%2Fanime%2F1375%2FWatashi_no_Ashinaga_Ojisan&amp;title=Watashi%20no%20Ashinaga%20Ojisan"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fmyanimelist.net%2Fanime%2F1375%2FWatashi_no_Ashinaga_Ojisan&amp;name=Watashi%20no%20Ashinaga%20Ojisan"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> My Daddy Long Legs
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Synonyms:</span> Sekai Meisaku Gekijou, Daddy-Long-Legs
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> 私のあしながおじさん
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span> <a href="http://myanimelist.net/topanime.php?type=tv">TV</a>
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  40
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Jan 4, 1990 to Dec 23, 1990
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="http://myanimelist.net/anime/season/1990/winter">Winter 1990</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Unknown
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+    None found, <a href="http://myanimelist.net/dbchanges.php?aid=1375&amp;t=producers">add some</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+    None found, <a href="http://myanimelist.net/dbchanges.php?aid=1375&amp;t=producers">add some</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/22/Nippon_Animation" title="Nippon Animation">Nippon Animation</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Novel
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+  <a href="/anime/genre/4/Comedy" title="Comedy">Comedy</a>, <a href="/anime/genre/13/Historical" title="Historical">Historical</a>, <a href="/anime/genre/22/Romance" title="Romance">Romance</a>, <a href="/anime/genre/23/School" title="School">School</a>, <a href="/anime/genre/25/Shoujo" title="Shoujo">Shoujo</a>, <a href="/anime/genre/36/Slice_of_Life" title="Slice of Life">Slice of Life</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  23 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  G - All Ages
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue">7.91</span><sup>1</sup> (scored by <span itemprop="ratingCount">2,439</span> users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+        indicates a weighted score. Please note that 'Not yet aired' titles are excluded.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #662<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #3701
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    5,102
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  54
+</div>
+
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+        
+
+<div class="_unit " style="width:160px;display: block !important;" data-height="600">
+  <div id="pc_anime_detail_side_sky" class="" style="width:160px;">
+    <script type='text/javascript'>
+      googletag.cmd.push(function() {
+             var slot = googletag.defineSlot("/84947469/pc_anime_detail_side_sky", [[160,600],[1,1]], "pc_anime_detail_side_sky").addService(googletag.pubads())
+    .setTargeting("adult", "white")
+        .setCollapseEmptyDiv(true,true);googletag.enableServices();  window.MAL.SkinAd.pushSKTag("pc_anime_detail_side_sky");
+         });</script>
+  </div>
+</div>
+  </div>
+
+</div></td><td valign="top" style="padding-left: 5px;">
